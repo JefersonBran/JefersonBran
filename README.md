@@ -13,7 +13,7 @@
 
   
 ---
-### 📊 TECNOLOGIAS & ESTATÍSTICAS 
+### 📊 ESTATÍSTICAS
 
 
 <img 
@@ -30,6 +30,9 @@
       src="https://github-stats-extended.vercel.app/api/top-langs?username=JefersonBran&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=JefersonBran&langs_count=4&theme=algolia" 
   />
   
+
+
+### 🤖 TECNOLOGIAS
 
 
 <img 
@@ -109,3 +112,20 @@
 ---
 ### 📞 CONTATOS
 
+<img
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  
+/>
+<img
+  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+/>
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
