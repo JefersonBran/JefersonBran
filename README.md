@@ -138,4 +138,4 @@
 <a href="jeferson.b.5268740638493030689"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   
 </div>
-
+ <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
