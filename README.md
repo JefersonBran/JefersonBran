@@ -69,6 +69,22 @@
 />
 <img 
     align="center" 
+    alt="C++"
+    title="C++" 
+    width="40px" 
+    style="padding-right: 40px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="center" 
+    alt="Csharp"
+    title="Csharp" 
+    width="40px" 
+    style="padding-right: 40px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="center" 
     alt="TypeScript"
     title="TypeScript" 
     width="40px" 
