@@ -128,9 +128,5 @@
   src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 />
 
-<div>
-  
-  ![Snake animation](https://github.com/JefersonBran/JefersonBran/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+ <img src="https://raw.githubusercontent.com/JefersonBran/JefersonBran/output/snake.svg" alt="Snake animation" />
 
