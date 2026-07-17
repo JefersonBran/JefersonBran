@@ -138,8 +138,12 @@
   
 </div>
 
+<div>
+
 <!-- Cobra do GitHub -->
  <img src="https://raw.githubusercontent.com/JefersonBran/JefersonBran/output/snake.svg" alt="Snake animation" />
+
+</div>
  
  <!-- Pacman -->
 <picture>
