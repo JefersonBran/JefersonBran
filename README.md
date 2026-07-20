@@ -152,7 +152,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JefersonBran/JefersonBran/output/pacman-contribution-graph.svg">
 </picture>  
 
-<!-- holograma -->
+<!-- Créditos do holograma: joaopauloaramuni -->
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
