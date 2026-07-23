@@ -7,7 +7,7 @@
 <div align ="center">
     Olá! 
     O meu nome é Jeferson Brandão de Novaes, tenho 19 anos, concluí o Ensino Médio pela Evandro Caiafa Esquível, e sou formado pelo curso técnico Análise e Desenvolvimento de Sistemas pela ETEC Jucelino Kubitschek.
-    Atualmente, estou cursando Ciência da Computação na Universidade Estadual do Piauí (UESPI), estudando tanto o conceito quando a base na tecnologia e programação.
+    Atualmente, estou cursando Ciência da Computação na Universidade Estadual do Piauí (UESPI), estudando tanto o conceito quando a base da tecnologia e programação.
 
 
 
