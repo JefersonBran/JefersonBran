@@ -21,15 +21,15 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=JefersonBran&custom_title=JefersonBran%20%20%7C%20GitHub%20Stats&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=JefersonBran&custom_title=JefersonBran%20%20%7C%20GitHub%20Stats&include_all_commits=true&theme=algolia" 
+    src= "https://github-stats-extended.vercel.app/api?username=JefersonBran&theme=algolia"  
   />
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=JefersonBran&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=JefersonBran&langs_count=4&theme=algolia" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=JefersonBran&langs_count=4&theme=algolia" 
   />
-  
+
 
 
 ### 🤖 TECNOLOGIAS
